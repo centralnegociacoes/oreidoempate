@@ -682,20 +682,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tjmo6LmAGR {
-  background-image: url("../../../assets/images/o-rei-do-empateeee.png");
-}
-@media (max-width: 991px) {
-  .cid-tjmo6LmAGR .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tjmo6LmAGR .row {
-  flex-direction: row-reverse;
-}
-.cid-tjmo6LmAGR img {
-  width: 100%;
-}
 .cid-tjlTOxtR8E {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -709,7 +695,7 @@ a {
 .cid-tjlTOxtR8E .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 400px;
   object-fit: cover;
 }
 .cid-tjlTOxtR8E .item:focus,
@@ -764,6 +750,21 @@ a {
 .cid-tjlTOxtR8E .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-tjmrwarTd3 {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-tjmrwarTd3 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tjmrwarTd3 .mbr-section-subtitle {
+  color: #ffcf00;
+}
+.cid-tjmrwarTd3 .mbr-text,
+.cid-tjmrwarTd3 .link {
+  color: #ffffff;
+}
 .cid-tjmc5wZtEz {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -775,6 +776,20 @@ a {
 .cid-tjmc5wZtEz .mbr-text,
 .cid-tjmc5wZtEz .mbr-section-btn {
   color: #ffcf00;
+}
+.cid-tjmo6LmAGR {
+  background-image: url("../../../assets/images/o-rei-do-empateeee.png");
+}
+@media (max-width: 991px) {
+  .cid-tjmo6LmAGR .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tjmo6LmAGR .row {
+  flex-direction: row-reverse;
+}
+.cid-tjmo6LmAGR img {
+  width: 100%;
 }
 .cid-tjlMBQaQUu {
   padding-top: 5rem;
@@ -794,6 +809,15 @@ a {
   .cid-tjlMBQaQUu .image-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-tjlMBQaQUu .mbr-text {
+  text-align: center;
+}
+.cid-tjlMBQaQUu .position {
+  text-align: center;
+}
+.cid-tjlMBQaQUu .name {
+  text-align: center;
 }
 .cid-tjlLpiU5jD {
   padding-top: 30px;
